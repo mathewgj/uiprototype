@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "resize",
+    "iphone"
+  ],
+  "transitions": "fade",
+  "title": "Schedule, Group, Assign",
+  "theme": "slidedown",
+  "slides": [
+    "welcome.html",
+    "slots.html",
+    "groups.html",
+    "activities.html",
+    "slotted.html",
+    "slots-edit.html",
+    "groups-edit.html"
+  ]
+}
